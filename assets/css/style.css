@@ -126,3 +126,28 @@ img{
 }
 /* End of Contact page's style */
 
+/* Portfolio page's style */
+.portfolio{
+  height: 700px;
+}
+
+.photo{
+  position: relative;
+  float:left;
+  height: 200px;
+  width: 285px;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.box{
+  width: 280px;
+  height: 55px;
+  left:22px;
+  bottom: -10px;
+  background: red;
+  padding: 7px;
+}
+
+
+
