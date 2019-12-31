@@ -4,6 +4,7 @@
    
 }
 
+/* First page's style or Abput page's style */
 body{
   background: rgb(232, 237, 238);
   font-family: Arial, Helvetica, sans-serif;
@@ -93,4 +94,35 @@ img{
   border-top: 4px solid #4aaaa5;
   font-size: 11px;
 }
+/* End of First page's style or Abput page's style*/
+
+/* Contact page's style */
+.contact{
+  height: 475px;
+  font-size:15px;
+  overflow: auto;
+}
+
+.input{
+  position: absolute;
+  width:94% ;
+  height: 40px;   
+}
+
+.message {
+  height: 175px; 
+  bottom:11% ;  
+}
+    
+.sub{
+  position: absolute;
+  bottom:2% ;
+  left:3%;
+  background: #4aaaa5;
+  height: 35px;
+  width: 90px;
+  font-size: 18px;
+  color: white;
+}
+/* End of Contact page's style */
 
