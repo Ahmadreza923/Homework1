@@ -28,7 +28,6 @@ body{
   text-align: center;
   color: white;
   font-size: 35px;
-  text-align: center;
   padding: 13px;
 }
 
@@ -151,9 +150,7 @@ img{
   height: 55px;
   left:22px;
   bottom: -10px;
-  background:red;
-  padding: 7px;
+  background:#4aaaa5;
+  padding: 13px;
+  font-size: 20px;
 }
-
-
-
