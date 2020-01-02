@@ -1,7 +1,6 @@
 
 *{
   box-sizing: border-box;
-   
 }
 
 /* First page's style or Abput page's style */
@@ -43,7 +42,7 @@ body{
   margin-top: 28px;
 }
   
-.contant{
+.context{
   position: relative;
   background-color: #ffffff;
   height: 600px;
@@ -62,6 +61,12 @@ h1{
   font-size: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h2{
+  font-size: 30;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 30px;
+}
    
 img{
   float:left;
@@ -75,11 +80,12 @@ img{
   width: 960px;
   text-align: justify;
   padding: 5px;
+  line-height: 30px;
 }
   
 .p2{
   width: 685px;
-  margin: 20px;
+  margin: 15px;
 }
   
 .footer{
